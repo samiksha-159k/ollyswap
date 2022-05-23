@@ -1,0 +1,131 @@
+.graph-container-info-container .info-container .busd-img{
+   z-index: 10;
+    
+ }
+.graph-container-info-container .info-container .usdc-img{
+   position: relative;
+   right: 7px;
+   
+}
+.graph-container-info-container  .duration-wise-data-updated .past-24-hours .text-green{
+  color: rgba(83, 243, 195, 1);
+  font-size: 12px;
+  
+}
+.graph-container-info-container .info-container .token-name{
+    font-family: 'Poppins', sans-serif;
+   font-size: 18px;
+   font-weight: 600;
+   color:  rgba(255, 255, 255, 1);
+   line-height: 28px; 
+
+}
+.graph-container-info-container .info-container 
+
+
+h5{
+    font-family:sans-serif;
+    font-size: 40px;
+    color: rgba(255,255,255,1);
+    font-weight: 500px bold;
+    line-height: 30px;
+    margin-left:  3rem;
+    width: 30%;
+    position: relative;
+    letter-spacing: 1px;
+    bottom: 2rem;
+}
+
+h6{
+    color:#fff ;
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 18px;
+    margin-left:6rem;
+    padding-top: 3rem;
+    
+}
+h6 span{
+    color: gray;
+}
+
+p{
+    color:#fff ;
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    line-height: 18px;
+    margin-left:3rem;
+    position: relative;
+    bottom: 4rem;
+    width: 30%;
+    
+}
+
+p span{
+    color: #53F3C3;
+}
+.time{
+    width: 20%;
+    position: absolute;
+    right: 1px;
+    top: 12rem;
+    
+   
+    
+
+}
+.time button{
+    margin: 0 1.5rem;
+    padding: 0.5rem;
+    border-radius: 3px;   
+}
+.time button span{
+    padding: 1rem ;
+
+}
+
+.mwh-btn{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+.mwh-btn2{
+    border:none;
+    background-color: #1A1B23;
+    color: #ffffff;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+.MainText{
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+width: 313px;
+height: 56px;
+color: #FFFFFF;
+white-space: nowrap;
+}
+
+@media screen and (max-width: 600px) {
+    .MainText{
+        font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    width: 313px;
+    height: 56px;
+    color: #FFFFFF;
+    white-space: nowrap;
+    }
+}

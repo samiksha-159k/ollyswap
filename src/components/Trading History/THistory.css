@@ -1,0 +1,53 @@
+ .sa-income{ 
+ /* background-color:  black;  */
+ margin-bottom: 90px;
+  
+ } 
+
+.sa-border{
+  background-color: #2C2D3A !important;
+  /* border-radius: 50px !important;  */
+  color: #ffffff;
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+}
+
+.tabulardata{
+  border-collapse: separate !important;
+  border-spacing:0 7px !important; 
+   table-layout: fixed;
+  border-bottom-left-radius:20px !important;
+  border-bottom-right-radius: 20px !important;
+  border-top-left-radius: 20px !important;
+  border-top-right-radius: 20px !important;
+}
+
+.sa-table_header{
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+color: #FFFFFF;
+padding: 20px;
+text-align: center;
+}
+
+.sa-table_head{
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16.4392px;
+line-height: 22px;
+color: #FFFFFF;
+}
+
+ td{
+  padding: 10px !important;
+} 
+
+tr{
+  border: 2px solid red !important;
+  border-radius: 10px;
+}
